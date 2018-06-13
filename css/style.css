@@ -10,7 +10,7 @@ body {
   background: linear-gradient(red, yellow);
   background-size: cover;
   background-attachment: fixed;
-  font-family: Arial, sans-serif;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
   font-size: 100%;
 }
 
